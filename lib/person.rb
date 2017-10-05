@@ -1,11 +1,11 @@
 class Person
 
-def names
-
+def name=(name)
+@name = name
 end
 
-def jobs
-
+def job=(job)
+@job = job
 end
 
 
